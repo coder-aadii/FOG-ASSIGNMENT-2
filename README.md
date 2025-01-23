@@ -2,6 +2,8 @@ Sure! Here's a README for your Interactive Neon Wave Grid project:
 
 ---
 
+## Vsit site [[Click Me](https://fog-assignment2.netlify.app/)]
+
 # Interactive Neon Wave Grid
 
 ## Overview
